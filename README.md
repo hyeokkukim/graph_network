@@ -3,4 +3,4 @@
 networkx 패키지를 활용하여 그래프 네트워크를 만드는 코드 입니다.  
 원본 데이터는 가상자산 인과관계 데이터를 사용하였고, 시각화 패키지는 plotly 입니다.  
 
-![png](/graph_network/newplot (10).png){: .align-center}
+https://github.com/hyeokkukim/graph_network/issues/1#issue-1347270527
